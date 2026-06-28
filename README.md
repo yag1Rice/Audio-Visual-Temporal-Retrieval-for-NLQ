@@ -1,4 +1,3 @@
-[Audio-Visual Temporal Retrieval for NLQ.md](https://github.com/user-attachments/files/29442332/Audio-Visual.Temporal.Retrieval.for.NLQ.md)
 # Audio-Visual Temporal Retrieval for Natural Language Queries
 
 ## Overview
